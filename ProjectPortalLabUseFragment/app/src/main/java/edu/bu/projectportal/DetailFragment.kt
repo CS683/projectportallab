@@ -47,7 +47,8 @@ class DetailFragment : Fragment() {
         projDesc.text = Project.project.description
 
         editProj.setOnClickListener{
-            editProjListener.editProj()
+           editProjListener.editProj()
+
         }
     }
 

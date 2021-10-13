@@ -67,9 +67,6 @@ class EditFragment : Fragment() {
 
         }
 
-
-
-
     }
 
 
